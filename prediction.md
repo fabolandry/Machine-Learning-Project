@@ -1,6 +1,5 @@
 # Coursera: Practical Machine Learning Prediction Assignment
-Benjamin Chan [GitHub](https://github.com/benjamin-chan)  
-
+ [GitHub]
 
 ```
 ## Run time: 2014-10-23 15:40:34
